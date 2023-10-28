@@ -1,0 +1,113 @@
+/*body {
+  min-height: 13000px;
+}*/
+
+* {
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+section {
+  padding-top: 5rem;
+}
+
+.iklan {
+  padding-top: 6rem;
+  background-color: #faecc4;
+  padding-bottom: 10rem;
+}
+
+.judul {
+  margin-top: 50px;
+}
+
+.kata {
+  margin-bottom: 50px;
+}
+
+.btn {
+  margin-bottom: 10px;
+  border-radius: 5rem;
+}
+
+.oren {
+  height: 20px;
+  width: 20px;
+}
+
+#galeri {
+  background-color: #a9a9a9;
+  padding-bottom: 1rem;
+}
+
+.thum {
+  transition: transform;
+}
+
+.gambar:hover {
+  transform: rotate();
+  transform: scale(1.2);
+}
+
+.gambar {
+  margin-right: 3px;
+  margin-bottom: 5px;
+}
+
+/*.card {
+}
+
+.konten:hover {
+}*/
+
+#hampers {
+  background-color: whitesmoke;
+  padding-bottom: 1rem;
+}
+
+#outfit {
+  background-color: #a9a9a9;
+  padding-bottom: 1rem;
+}
+
+#bouquet {
+  background-color: whitesmoke;
+  padding-bottom: 1rem;
+}
+
+#informasi {
+  background-color: #faecc4;
+  padding-bottom: 1rem;
+}
+
+#informasi a {
+  text-decoration: none;
+}
+
+.bsi {
+  background-color: #ffffff;
+}
+
+.sicepat,
+.jne,
+.jnt,
+.grab {
+  background-color: #ffffff;
+  margin-right: 20px;
+}
+
+.ecomer {
+  height: 20px;
+  width: 20px;
+}
+
+.link {
+  display: flex;
+}
+
+.pengiriman {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.footer {
+  background-color: #f0d898;
+}
